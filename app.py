@@ -1,15 +1,7 @@
-#Import selenium webdriver
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 
-#Import time
-import time
-
-#Import datetime
 import datetime
-
-#Import csv
 import csv
 
 USER_POSTS_URL = "https://zarpgaming.com/index.php/forum/topics/posts/mode-latest/userid-37312"

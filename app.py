@@ -14,6 +14,9 @@ import csv
 
 USER_POSTS_URL = "https://zarpgaming.com/index.php/forum/topics/posts/mode-latest/userid-37312"
 
+
+#Best login details around
+#I don't care if you use it cause why would I mate
 LOGIN_USERNAME = "sinzscraper"
 LOGIN_PASSWORD = "sinzscraper"
 
